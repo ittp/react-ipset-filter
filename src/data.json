@@ -1,0 +1,322 @@
+{
+  "1": {
+    "uno": "000-226347",
+    "type": "MONITOR",
+    "manufacturer": "Acer",
+    "model": "K272HL",
+    "serial": 3603346785,
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "2": {
+    "uno": "000-226356",
+    "type": "MONITOR",
+    "manufacturer": "Acer",
+    "model": "K272HL",
+    "serial": 3603350685,
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "3": {
+    "uno": "000-226357",
+    "type": "MONITOR",
+    "manufacturer": "AOC",
+    "model": "24B2XD",
+    "serial": "AWGLA1A008321",
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "4": {
+    "uno": "000-226360",
+    "type": "MONITOR",
+    "manufacturer": "AOC",
+    "model": "24B2XD",
+    "serial": "AWGLA1A002813",
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "5": {
+    "uno": "000-226364",
+    "type": "MONITOR",
+    "manufacturer": "AOC",
+    "model": "24B2XD",
+    "serial": "AWGLA1A002819",
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "6": {
+    "uno": "000-226369",
+    "type": "MONITOR",
+    "manufacturer": "AOC",
+    "model": "24B2XD",
+    "serial": "AWGLA1A008303",
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "7": {
+    "uno": "000-226373",
+    "type": "MONITOR",
+    "manufacturer": "AOC",
+    "model": "24B2XD",
+    "serial": "AWGLA1A005777",
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "8": {
+    "uno": "000-226246",
+    "type": "MONITOR",
+    "manufacturer": "AOC",
+    "model": "24B2XD",
+    "serial": "AWGLA1A002844",
+    "inventory": "",
+    "year": 2020,
+    "place": ""
+  },
+  "9": {
+    "uno": "000-226350",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": 1056460019,
+    "inventory": "",
+    "year": 2021,
+    "place": ""
+  },
+  "10": {
+    "uno": "000-226351",
+    "type": "SB",
+    "manufacturer": "IRU",
+    "model": "Corp 517 MT",
+    "serial": "2111119KSH0074",
+    "inventory": "",
+    "year": 2019,
+    "place": ""
+  },
+  "11": {
+    "uno": "000-226354",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": 1056460025,
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "12": {
+    "uno": "000-226355",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": "",
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "13": {
+    "uno": "000-226359",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": 1056460048,
+    "inventory": "",
+    "year": 2021,
+    "place": ""
+  },
+  "14": {
+    "uno": "000-226366",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": 1057370004,
+    "inventory": "",
+    "year": 2021,
+    "place": ""
+  },
+  "15": {
+    "uno": "000-226368",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": 1055860012,
+    "inventory": "",
+    "year": 2021,
+    "place": ""
+  },
+  "16": {
+    "uno": "000-226372",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": 1056460033,
+    "inventory": "",
+    "year": 2021,
+    "place": ""
+  },
+  "17": {
+    "uno": "000-226375",
+    "type": "SB",
+    "manufacturer": "СЕТЕВАЯ ЛАБОРАТОРИЯ",
+    "model": "С656752Ц",
+    "serial": 1056460029,
+    "inventory": "",
+    "year": 2021,
+    "place": ""
+  },
+  "18": {
+    "uno": "000-226349",
+    "type": "UPS",
+    "manufacturer": "Ippon",
+    "model": "Back Basic 2200",
+    "serial": "N06X10H1W00185",
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "19": {
+    "uno": "000-226353",
+    "type": "UPS",
+    "manufacturer": "Ippon",
+    "model": "Back Basic 2201",
+    "serial": "N06X10GCM00156",
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "20": {
+    "uno": "000-226358",
+    "type": "UPS",
+    "manufacturer": "Ippon",
+    "model": "Back Basic 2202",
+    "serial": "N06X10GCL00084",
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "21": {
+    "uno": "000-226365",
+    "type": "UPS",
+    "manufacturer": "Ippon",
+    "model": "Back Basic 2203",
+    "serial": "N06X10H1J00109",
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "22": {
+    "uno": "000-226367",
+    "type": "UPS",
+    "manufacturer": "Ippon",
+    "model": "Back Basic 2204",
+    "serial": "N06X10H1M00194",
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "23": {
+    "uno": "000-226374",
+    "type": "UPS",
+    "manufacturer": "Ippon",
+    "model": "Back Basic 2205",
+    "serial": "N06X10H1R00176",
+    "inventory": "",
+    "year": "",
+    "place": ""
+  },
+  "24": {
+    "uno": "000-226348",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "Phaser 3330",
+    "serial": 3386518440,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "25": {
+    "uno": "000-226352",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "WorkCentre 3345",
+    "serial": 3389400890,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "26": {
+    "uno": "000-226361",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "WorkCentre 3345",
+    "serial": 3389400881,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "27": {
+    "uno": "000-226362",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "WorkCentre 3345",
+    "serial": 3386591694,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "28": {
+    "uno": "000-226363",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "WorkCentre 3345",
+    "serial": 3389454973,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "29": {
+    "uno": "000-226370",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "WorkCentre 3345",
+    "serial": 3389454949,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "30": {
+    "uno": "000-226371",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "WorkCentre 3345",
+    "serial": 3389390975,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "31": {
+    "uno": "000-226247",
+    "type": "MFU",
+    "manufacturer": "Xerox",
+    "model": "WorkCentre 3345",
+    "serial": 3389392277,
+    "inventory": "",
+    "year": 2007,
+    "place": ""
+  },
+  "32": {
+    "uno": "000-226248",
+    "type": "SWITCH",
+    "manufacturer": "Eltex",
+    "model": "ESR-21",
+    "serial": "NP10004245",
+    "inventory": "",
+    "year": 2021,
+    "place": ""
+  }
+}
